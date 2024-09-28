@@ -4,7 +4,7 @@
 I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em segurança e analista em Python.
 
 ### My Skills 
-* Languages: Python, Java, HTML, CSS, Javascript e C++.
+* Languages: Python, Java, HTML, CSS, Javascript e C#.
 * Technologies/Frameworks:  Flask and Django.
 * Databases: MySQL.
 * Development Environments/IDEs: IntelliJ IDEA, Eclipse, Visual Studio Code, Git and arduino
@@ -31,7 +31,7 @@ I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em se
     <img align="center" alt="Sena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Sena-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Sena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Sena-C++" height="30" width="40"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Sena-C#" height="30" width="40"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
           
            
           
