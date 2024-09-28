@@ -4,14 +4,14 @@
 I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em segurança e analista em Python.
 
 ### My Skills 
-* Languages: Python
+* Languages: Python, Java, HTML, CSS, Javascript e Arduino
 * Technologies/Frameworks:  Flask and Django.
 * Databases: MySQL.
-* Development Environments/IDEs: IntelliJ IDEA, Eclipse, Visual Studio Code, Git.
+* Development Environments/IDEs: IntelliJ IDEA, Eclipse, Visual Studio Code, Git and arduino
 * Platforms: Windows and Linux.
 * Application/Web Servers: Apache, Tomcat.
 * Methodologies: Scrum/Kanban.
-* Extra: Deep Learning with TensorFlow and Keras.
+* Extra: Especialista em Segurança Eletrônica e Projetos com Arduino
  
  ##
 
