@@ -31,7 +31,8 @@ I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em se
     <img align="center" alt="Sena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Sena-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Sena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Sena-C++" height="30" width="40"<a href="https://iconscout.com/icons/arduino" class="text-underline font-size-sm" target="_blank">Arduino</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+    <img align="center" alt="Sena-C++" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
            
           
           
