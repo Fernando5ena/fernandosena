@@ -35,5 +35,3 @@ I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em se
 </div>
   
 ##
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
