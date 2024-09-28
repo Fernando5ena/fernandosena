@@ -4,7 +4,7 @@
 I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em segurança e analista em Python.
 
 ### My Skills 
-* Languages: Python, Java, HTML, CSS, Javascript e Arduino
+* Languages: Python, Java, HTML, CSS, Javascript e C++.
 * Technologies/Frameworks:  Flask and Django.
 * Databases: MySQL.
 * Development Environments/IDEs: IntelliJ IDEA, Eclipse, Visual Studio Code, Git and arduino
@@ -35,5 +35,4 @@ I'm Fernando Sena, analista de redes, analista de infraestrutura, analista em se
 </div>
   
 ##
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
